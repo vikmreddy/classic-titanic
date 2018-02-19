@@ -1,2 +1,2 @@
 # classic-titanic
-Applying the kitchen sink of ML to the classic Titanic dataset
+Applying the kitchen sink of Machine Learning to the classic Titanic dataset
